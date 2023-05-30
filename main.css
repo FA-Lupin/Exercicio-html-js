@@ -1,0 +1,21 @@
+body {
+  background-color: #6b6262;
+}
+
+button {
+  color: #000000;
+  border: solid 2px #000000;
+  font-size: 15px;
+  width: 120px;
+  cursor: pointer;
+}
+
+form {
+  align-items: center;
+  text-align: center;
+  padding-top: 1rem;
+}
+
+h1 {
+  text-align: center;
+}
